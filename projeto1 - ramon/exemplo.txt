@@ -1,1 +1,9 @@
 console.log(`Salamaleico my friend`)
+
+//Código para ser utilizado em um arquivo .js
+//Salamaleico = "Que a paz esteja sobre vós"
+
+
+primeiro commit 
+
+segundo commit
